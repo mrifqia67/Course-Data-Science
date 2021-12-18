@@ -1,7 +1,5 @@
 == Pengenalan Python ==
 
-Disclaimer : mungkin sedikit berbeda, saya disini mencantumkan kode-kode latihan yang pernah dibuat. Untuk materinya sangat banyak sekali di internet.
-
 Pada materi ini, akan dibahas beberapa latihan mengenai langkah awal belajar bahasa pemrograman python. Rincian latihannya adalah sebagai berikut :
 
 Lat1.Pengenalan Python, membahas mengenai cara membuat variabel berisi string dan integer, menggunakan metode print untuk melihat output, dan menggunakan method replace untuk mengubah kata.
