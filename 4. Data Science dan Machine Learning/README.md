@@ -4,7 +4,7 @@ Pada materi machine learning ini, akan dibahas latihan mengenai algoritma dari u
 
 Algoritma dari machine learning tersebut adalah sebagai berikut :
 
-- Lat1.Clustering K-Means, step untuk mengerjakan clustering dengan metode k-means, yaitu :
+- Lat1. Clustering K-Means, step untuk mengerjakan clustering dengan metode k-means, yaitu :
 
   * menentukan variabel mana yang ingin di klaster (cluster based on which variable)
   * melakukan pemanggilan data
@@ -15,7 +15,7 @@ Algoritma dari machine learning tersebut adalah sebagai berikut :
   * menghitung silhoutte score sebagai evaluasi model
   * interpretasi based on the analysis
 
-- Lat2.Supervised Learning - Regresi Polynomial, step pengerjaannya adalah sebagai berikut :
+- Lat2. Supervised Learning - Regresi Polynomial, step pengerjaannya adalah sebagai berikut :
 
   * melakukan tahap pemanggilan dan persiapan data melalui statistika deskritif
   * kemudian melakukan transformasi untuk kolom kasus harian. Hal ini dilakukan agar skala yang diperoleh tidak terlalu jauh
