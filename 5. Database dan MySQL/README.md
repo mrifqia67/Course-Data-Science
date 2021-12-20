@@ -2,5 +2,11 @@
 
 Apabila kemarin-kemarin sudah bermain dengan Python, maka sekarang akan sedikit bermain dengan MySQL. Software yang digunakan untuk menjalankan MySQL adalah dengan MySQL Workbench :)
 
-Lat1.Intro MySQL, membahas mengenai cara menggabungkan beberapa tabel berdasarkan kebutuhan menggunakan inner join dan meng-ordernya berdasarkan kriteria tertentu.
+Lat1. Intro MySQL, membahas mengenai cara menggabungkan beberapa tabel berdasarkan kebutuhan menggunakan inner join dan meng-ordernya berdasarkan kriteria tertentu.
 Upload file beserta penjelasannya menyusul yaa.
+
+Lat2. Manipulate Database, 
+
+Lat3. Search and Filtering Data with Connecting SQL and Python,
+
+Lat4. Scraping Web,
