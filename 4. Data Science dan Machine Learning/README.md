@@ -26,4 +26,14 @@ Algoritma dari machine learning tersebut adalah sebagai berikut :
   * diperoleh nilai r_square = 0.9576 dan kemudian melakukan prediksi selama 30 hari ke depan
 
 - Lat3. Supervised Learning - Regresi Logistic. Biasanya apabila melakukan analisis yang berkaitan dengan regresi logistik, maka kesimpulan yang diperoleh akan menghasilkan model matimatis dengan bentuk persamaan logit, tetapi dalam hal ini tidak dilakukan, karena memang tidak diminta untuk sampai kesana. Adapun langkah pengerjaannya adalah sebagai berikut :
-  * 
+  * memanggil semua library yang dibutuhkan
+  * memanggil data menggunakan fungsi pandas
+  * memulai tahap persiapan data, seperti melihat apakah terdapat ada data yang missing, melihat bagaimana struktur data, melakukan analisis statistika deskriptif, dan lain-lain
+  * apabila terdapat data yang missing, maka kolom data tersebut akan di drop
+  * kemudian memberi label male : 0 dan female menjadi 1 pada kolom Sex. S = 1, C = 2, Q = 3 pada kolom embarked
+  * menentukan variabel mana yang akan menjadi target dan variabel mana yang akan menjadi prediktor
+  * kemudian menggunakan feature selection untuk memilih variabel yang berpengaruh. variabel tersebut dipilih dan datanya akan di-split menjadi data training dan data testing
+  * membuat model regresi logistic
+  * melakukan prediksi dan melihat nilai akurasi modelnya menggunakan AUC
+
+Seperti itu tahapan dari berbagai latihan soalnya, saya tahu bahwa mungkin masih terdapat beberapa kekeliruan dalam pemahamannya. Tetapi seperti itulah.. selamat belajar :)
