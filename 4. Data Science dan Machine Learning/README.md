@@ -34,6 +34,6 @@ Algoritma dari machine learning tersebut adalah sebagai berikut :
   * menentukan variabel mana yang akan menjadi target dan variabel mana yang akan menjadi prediktor
   * kemudian menggunakan feature selection untuk memilih variabel yang berpengaruh. variabel tersebut dipilih dan datanya akan di-split menjadi data training dan data testing
   * membuat model regresi logistic
-  * melakukan prediksi dan melihat nilai akurasi modelnya menggunakan AUC
+  * melakukan prediksi dan melihat nilai akurasi modelnya menggunakan Area Under Curve (AUC)
 
 Seperti itu tahapan dari berbagai latihan soalnya, saya tahu bahwa mungkin masih terdapat beberapa kekeliruan dalam pemahamannya. Tetapi seperti itulah.. selamat belajar :)
