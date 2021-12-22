@@ -5,7 +5,7 @@ Pada materi machine learning ini, akan dibahas latihan mengenai algoritma dari u
 Algoritma dari machine learning tersebut adalah sebagai berikut :
 
 - Lat1. Clustering K-Means, step untuk mengerjakan clustering dengan metode k-means, yaitu :
-
+  * memanggil library yang diperlukan 
   * menentukan variabel mana yang ingin di klaster (cluster based on which variable)
   * melakukan pemanggilan data
   * melakukan standarisasi data, hal ini bertujuan agar jarak skala dari antarvariabelnya tidak terlalu jauh
@@ -16,7 +16,7 @@ Algoritma dari machine learning tersebut adalah sebagai berikut :
   * interpretasi based on the analysis
 
 - Lat2. Supervised Learning - Regresi Polynomial, step pengerjaannya adalah sebagai berikut :
-
+  * memanggil library yang dibutuhkan
   * melakukan tahap pemanggilan dan persiapan data melalui statistika deskritif
   * kemudian melakukan transformasi untuk kolom kasus harian. Hal ini dilakukan agar skala yang diperoleh tidak terlalu jauh
   * mengubah kolom tanggal menjadi numerik
@@ -24,3 +24,6 @@ Algoritma dari machine learning tersebut adalah sebagai berikut :
   * kemudian melakukan tahap pembuatan model menggunakan fungsi PolynomialFeatures dengan degree = 2
   * melakukan evaluasi model dengan membuat prediksi dari x_test, lalu bandingkan hasilnya dengan y_test, sehingga diperoleh nilai r_square
   * diperoleh nilai r_square = 0.9576 dan kemudian melakukan prediksi selama 30 hari ke depan
+
+- Lat3. Supervised Learning - Regresi Logistic. Biasanya apabila melakukan analisis yang berkaitan dengan regresi logistik, maka kesimpulan yang diperoleh akan menghasilkan model matimatis dengan bentuk persamaan logit, tetapi dalam hal ini tidak dilakukan, karena memang tidak diminta untuk sampai kesana. Adapun langkah pengerjaannya adalah sebagai berikut :
+  * 
