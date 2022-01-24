@@ -1,4 +1,4 @@
-== About This Course ==
+== The Course at a Glance ==
 
 halloo.. pada kesempatan ini, saya akan sharing mengenai pelatihan data sains yang sudah saya ikuti. Jadi, program data sains ini diselenggarakan oleh Digital School. To be honest.. penyelenggaranya berasal dari suatu partai, yaitu PKS (sebenernya ini cukup sensitif si kalo bahas partai - partai gitu). Tapi beneran deh, saya ngikutin program ini karena pengen banget dapet ilmunya, banyak perusahaan di Indonesia yang menggunakan tools python sebagai tools untuk analisis data..
 
