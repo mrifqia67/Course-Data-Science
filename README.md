@@ -2,7 +2,11 @@
 
 halloo.. pada kesempatan ini, saya akan sharing mengenai pelatihan data sains yang sudah saya ikuti. Jadi, program data sains ini diselenggarakan oleh Digital School. To be honest.. penyelenggaranya berasal dari suatu partai, yaitu PKS (sebenernya ini cukup sensitif si kalo bahas partai - partai gitu). Tapi beneran deh, saya ngikutin program ini karena pengen banget dapet ilmunya, banyak perusahaan di Indonesia yang menggunakan tools python sebagai tools untuk analisis data..
 
-Saya termasuk orang yang baru banget belajar python, tapi karena materinya cukup terstruktur, saya dapat belajar dengan sangat cepat, alhasil akhirnya saya menempati peringkat 6 dari 630-an peserta. Selain itu juga, saya merasakan skill python saya meningkat sangat drastis, lebih nyaman menggunakan python untuk analisis data..
+Saya termasuk orang yang baru banget belajar python, tapi karena materinya cukup terstruktur, saya dapat belajar dengan sangat cepat, alhasil akhirnya saya menempati peringkat 6 dari 630-an peserta. 
+
+![nilaiku](https://github.com/mrifqia67/Course-Data-Science/blob/main/9.%20Project/Capture%20nilai.PNG)
+
+Selain itu juga, saya merasakan skill python saya meningkat sangat drastis, lebih nyaman menggunakan python untuk analisis data..
 
 Setelah beberapa kali belajar python, saya memutuskan untuk membuat dokumentasinya di github ini. tujuan saya mendokumentasikan latihan ini adalah untuk membagikan ilmu yang sudah pernah saya dapatkan, walaupun sedikit, tapi semoga saja berguna :) Jadi seluruh materi yang saya tulis disini, merupakan latihan - latihan yang diberikan oleh trainer. latihan tersebut harus dikerjakan dalam 1 x 24 jam dengan waktu yang fleksibel. Kemudian peserta juga akan menghadapi kuis yang terdiri atas pilihan ganda dan kuis penulisan sintak, dan peserta juga akan menghadapi project - project untuk mengasah kemampuan dan pemahaman.
 
